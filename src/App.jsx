@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>To-Do List</h1>
+      <h1>this is todo list</h1>
 
       {/* Input field */}
       <input
